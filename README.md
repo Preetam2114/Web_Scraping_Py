@@ -1,6 +1,6 @@
-# Web_Scraping_Py
+# Web_Scraping_Py :globe_with_meridians:
 
-## Download Python3:
+## Download Python3: :snake:
 All my projects in Python 3, which will be replaced by it successor but most probably there shall not be much issue other than chages of syntax the same which we face with python 2.X and 3.X
 
 ## To download Python3 
