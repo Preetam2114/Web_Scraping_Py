@@ -9,7 +9,7 @@ Click the link [here](https://www.python.org/downloads/release/python-371/)
 ## Installing Jupyter notebook
 
 1. Installing Jupyter using Anaconda and conda
-   For new users, it's **highly recommend** [installing Anaconda](https://www.continuum.io/downloads). Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
+    For new users, it's **highly recommend** [installing Anaconda](https://www.continuum.io/downloads). Anaconda conveniently installs Python, the Jupyter Notebook, and other commonly used packages for scientific computing and data science.
    Use the following installation steps:
      Download Anaconda. We recommend downloading Anaconda’s latest Python 3 version (currently Python 3.5).
      
@@ -21,7 +21,7 @@ Click the link [here](https://www.python.org/downloads/release/python-371/)
      jupyter notebook
     ```
  2. Alternative for experienced Python users: Installing Jupyter with pip
-    As an existing Python user, you may wish to install Jupyter using Python’s package manager, pip, instead of Anaconda.
+     As an existing Python user, you may wish to install Jupyter using Python’s package manager, pip, instead of Anaconda.
     First, ensure that you have the latest pip; older versions may have trouble with some dependencies:
     ```
     pip3 install --upgrade pip
