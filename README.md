@@ -32,3 +32,10 @@ Click the link [here](https://www.python.org/downloads/release/python-371/)
     ```
     pip3 install jupyter
     ```
+## Installing Scrapy
+Scrapy offers the tool for [download](https://scrapy.org/download/) from its website, as well as instructions for installing Scrapy with third-party installation managers such as pip.
+
+> Because of its relatively large size and complexity, Scrapy is not usually a framework that can be installed in the traditional way with
+
+    ```
+    pip install Scrapy
