@@ -37,5 +37,8 @@ Scrapy offers the tool for [download](https://scrapy.org/download/) from its web
 
 > Because of its relatively large size and complexity, Scrapy is not usually a framework that can be installed in the traditional way with
 
-    ```
     pip install Scrapy
+
+>If you’re determined to install Scrapy from pip, using a virtual environment (see the
+“Keeping Libraries Straight with Virtual Environments” on page 7 for more on virtual
+environments) is highly recommended.
