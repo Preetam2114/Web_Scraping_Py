@@ -54,6 +54,5 @@ including BeautifulSoup
 The most highly recommended method is through Anaconda package manager the installation of anaconda is already stated above
 After Anaconda is installed, you can install Scrapy by using this command:
 
-    ```
     conda install -c conda-forge scrapy
-    ```
+    
