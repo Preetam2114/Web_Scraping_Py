@@ -51,8 +51,9 @@ Scrapy offers the tool for [download](https://scrapy.org/download/) from its web
 >This activates the newly created venv all the necessary libraries can be installed here with all the dependencies
 including BeautifulSoup
 
-The most highly recommended method is through Anaconda package manager the installation of anaconda is already stated above
+The most highly recommended method is through `Anaconda package manager` the installation of anaconda is already stated above
 After Anaconda is installed, you can install Scrapy by using this command:
 
     conda install -c conda-forge scrapy
     
+>Note: Go through the `Scrapy Tutorial` for getting quick peak about working with Scrapy
