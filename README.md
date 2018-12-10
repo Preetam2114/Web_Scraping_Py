@@ -56,4 +56,4 @@ After Anaconda is installed, you can install Scrapy by using this command:
 
     conda install -c conda-forge scrapy
     
->Note: Go through the `[Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html)` for getting quick peak about working with Scrapy
+>Note: Go through the [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html) for getting quick peak about working with `Scrapy`
