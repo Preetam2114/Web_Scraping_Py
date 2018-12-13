@@ -32,3 +32,28 @@ Click the link [here](https://www.python.org/downloads/release/python-371/)
     ```
     pip3 install jupyter
     ```
+## Installing Scrapy
+Scrapy offers the tool for [download](https://scrapy.org/download/) from its website, as well as instructions for installing Scrapy with third-party installation managers such as pip.
+
+> Because of its relatively large size and complexity, Scrapy is not usually a framework that can be installed in the traditional way with
+
+    pip install Scrapy
+
+>If you’re determined to install Scrapy from pip, using a virtual environment run the following set of codes
+    
+    $ virtualenv scrapingEnv
+    
+>This creates a new environment called scrapingEnv, which you must activate to use:
+    
+    $ cd scrapingEnv/
+    $ source bin/activate
+    
+>This activates the newly created venv all the necessary libraries can be installed here with all the dependencies
+including BeautifulSoup
+
+The most highly recommended method is through `Anaconda package manager` the installation of anaconda is already stated above
+After Anaconda is installed, you can install Scrapy by using this command:
+
+    conda install -c conda-forge scrapy
+    
+>Note: Go through the [Scrapy Tutorial](https://doc.scrapy.org/en/latest/intro/tutorial.html) for getting quick peak about working with `Scrapy`
